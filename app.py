@@ -58,3 +58,5 @@ if want_req:
         print("Yes request can be granted with safe state , Safe state <P" + str(process_number) + "req,", *seq, ">")
     else:
         print("No request can't be granted with safe state")
+
+    input()
