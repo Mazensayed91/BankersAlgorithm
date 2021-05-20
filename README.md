@@ -19,5 +19,5 @@ The banker’s algorithm is a resource allocation and deadlock avoidance algorit
 
 # How to use [Method 2]
 
-Simply download app folder and run app.py
+Simply download app folder and run app.exe
 
