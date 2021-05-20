@@ -2,7 +2,7 @@
 
 The banker’s algorithm is a resource allocation and deadlock avoidance algorithm that tests for safety by simulating the allocation for predetermined maximum possible amounts of all resources, then makes an “s-state” check to test for possible activities, before deciding whether allocation should be allowed to continue.
 
-# How to use
+# How to use [Method 1]
 
  - clone the repo
  - run this command from the terminal or simply install numpy => "pip install -r requirements.txt"
@@ -17,7 +17,7 @@ The banker’s algorithm is a resource allocation and deadlock avoidance algorit
  - first enter the process number : ![image](https://user-images.githubusercontent.com/54520113/118971239-7592de80-b96f-11eb-9960-c063241e4670.png)
  - Then the request : ![image](https://user-images.githubusercontent.com/54520113/118971376-a1ae5f80-b96f-11eb-9b7f-55c197ef52f2.png)
 
+# How to use [Method 2]
 
-
-
+Simply download app folder and run app.py
 
